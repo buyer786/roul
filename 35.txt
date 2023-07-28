@@ -1,0 +1,1 @@
+{"id":"000001852b7c0cd300404055c02e9cb1","type":"roulette.winSpots","args":{"gameId":"173242bee23f6014fc26ca6a","code":"35","description":"35 Black","winSpots":{},"timestamp":"2022-12-25T17:43:48.169Z","result":[{"number":"35"}]},"time":1671471828179}
