@@ -1,0 +1,26 @@
+https://evolive.gpms365.net/public/roulette/player/game/SpeedAutoRo00001/socket?messageFormat=json&instance=k10ue9-og6rgd77nou5y5jc-q5be7b6m6uydstfi&tableConfig=q5be7b6m6uydstfi&EVOSESSIONID=og6rgd77nou5y5jcrgowm27dafqxnzdh431b6475d3dd1ae36025ec169f4be65032c283d09528a433&client_version=6.20230727.71828.28476-cda9afe7b7
+
+
+{"id":"000001852b7c0cd300404055c02e9cb1","type":"roulette.winSpots","args":{"gameId":"173242bee23f6014fc26ca6a","code":"35","description":"35 Black","winSpots":{},"timestamp":"2022-12-25T17:43:48.169Z","result":[{"number":"35"}]},time":1690564499484}
+
+
+{"id":"000001852b7c0cd300404055c02e9cb1","type":"roulette.winSpots","args":{"gameId":"173242bee23f6014fc26ca6a","code":"35","description":"35 Black","winSpots":{},"timestamp":"2022-12-25T17:43:48.169Z","result":[{"number":"35"}]},"time":1690619506362}
+
+
+
+{"id":"1690666426103-82","type":"roulette.winSpots","args":{"gameId":"1776742316e5496d4b85e2a6","code":"9","description":"9  Red","winSpots":{},"timestamp":"2023-07-29T21:33:46.083Z","result":[{"number":"9"}]},"time":1690666890113}
+
+
+{"id":"1690667170612-4113","type":"roulette.winSpots","args":{"gameId":"177674cf8153cae3bf19b411","code":"32","description":"32 Red","winSpots":{},"timestamp":"2023-07-29T21:46:10.595Z","result":[{"number":"32"}]},"time":1690705652223}
+
+
+{"id":"1690667562122-9360","type":"roulette.winSpots","args":{"gameId":"1776752b026dfad7ffe1fbb3","code":"20","description":"20 Black","winSpots":{},"timestamp":"2023-07-29T21:52:42.101Z","result":[{"number":"20"}]},"time":1690667562122}
+
+{"id":"1690703005679-715","type":"roulette.winSpots","args":{"gameId":"17769567f246b55869555542","code":"7","description":"7  Red","winSpots":{},"timestamp":"2023-07-30T07:43:25.663Z","result":[{"number":"7"}]},"time":1690703005679}
+
+{"id":"1690703695191-5474","type":"roulette.winSpots","args":{"gameId":"177696085defa80359250bba","code":"15","description":"15 Black","winSpots":{},"timestamp":"2023-07-30T07:54:55.174Z","result":[{"number":"15"}]},"time":1690703695191}
+
+{"id":"1690704697710-8627","type":"roulette.winSpots","args":{"gameId":"177696f15080aadfa5534e0b","code":"36","description":"36 Red","winSpots":{},"timestamp":"2023-07-30T08:11:37.691Z","result":[{"number":"36"}]},"time":1690704697710}
+
+{"id":"1690705552718-3729","type":"roulette.winSpots","args":{"gameId":"177697b89f1789169dbe62e4","code":"0","description":"0  Green","winSpots":{},"timestamp":"2023-07-30T08:25:52.706Z","result":[{"number":"0"}]},"time":1690705552718}
+{"id":"1690705652223-2256","type":"roulette.winSpots","args":{"gameId":"177697cf7058ddffbb93692c","code":"25","description":"25 Red","winSpots":{},"timestamp":"2023-07-30T08:27:32.204Z","result":[{"number":"25"}]},"time":1690705652223}
